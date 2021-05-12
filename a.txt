@@ -1,1 +1,6 @@
-Abhishek ki diary
+SAM ki diary
+
+These file is created by Sam to see actual demo of pull conflict
+
+
+
